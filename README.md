@@ -1,2 +1,2 @@
 # eMarket
- Shooping Application
+ Shopping Application
